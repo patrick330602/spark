@@ -65,6 +65,7 @@ BUILD:
 DOCS:
   - "docs/**/*"
   - "**/README.md"
+  - "README.orig.md"
   - "**/CONTRIBUTING.md"
 EXAMPLES:
   - "examples/**/*"

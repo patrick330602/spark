@@ -90,6 +90,7 @@
     <module>common/tags</module>
     <module>core</module>
     <module>graphx</module>
+    <module>dllib</module>
     <module>mllib</module>
     <module>mllib-local</module>
     <module>tools</module>
